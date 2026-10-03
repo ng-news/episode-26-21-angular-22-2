@@ -2,7 +2,7 @@
 
 A small companion to the episode covering router resources, error boundaries, and TypeScript private members in templates. Adapted from Rainer Hahnekamp's recorded Eternal holidays example. Uses local fixture data, so no Java backend, database, credentials, or external API is needed.
 
-[Open in StackBlitz](https://stackblitz.com/github/ng-news/26-21-angular-22-2?file=src/app/app.routes.ts) · [Fork an editable copy](https://stackblitz.com/fork/github/ng-news/26-21-angular-22-2?file=src/app/app.routes.ts)
+[Open in StackBlitz](https://stackblitz.com/github/ng-news/episode-26-21-angular-22-2?file=src/app/app.routes.ts) · [Fork an editable copy](https://stackblitz.com/fork/github/ng-news/episode-26-21-angular-22-2?file=src/app/app.routes.ts)
 
 ## Run
 
